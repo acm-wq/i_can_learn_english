@@ -94,9 +94,16 @@
 - 🟥 Scarry
 - 🟥 Suitcase
 - 🟥 Sing
-- Choir
-- Purpose/Qoal
-- Performing on stage in front of
-- Prepared
-- Breed
-- Matter
+- 🟥 Choir
+- 🟥 Purpose/Qoal
+- 🟥 Performing on stage in front of
+- 🟥 Prepared
+- 🟥 Breed
+- 🟥 Matter
+- 🟥 dirty
+- 🟥 terrified of predators
+- 🟥 stuff
+- 🟥 raking
+- 🟥 flint
+
+
