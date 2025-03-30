@@ -105,5 +105,17 @@
 - 🟥 stuff
 - 🟥 raking
 - 🟥 flint
-
-
+- 🟥 charcoal
+- 🟥 eventually
+- 🟥 rot
+- 🟩 Therefore
+- 🟥 What do you guys say? Juicy.
+- 🟥 Delicious
+- 🟥 issue
+- 🟩 patient
+- 🟥 punish
+- 🟥 shake
+- 🟥 spread
+- 🟥 several
+- 🟥 stroll
+- 🟥 establish
