@@ -8,14 +8,13 @@ The repository is constantly growing and will be updated with new content regula
 
 ## 📌 Fast links
 
-- [Current word](current_words)
+- [Current word](current_words.md)
 
 ## 📖 How to Use  
 
 1. Open the `can?` folder  
 2. Select the desired lesson or start with `01_`
 3. Have fun!  
-
 
 ## 💝 Thanks to
 
