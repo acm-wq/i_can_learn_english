@@ -28,6 +28,7 @@ Exp:
   - He came in **second** place in the race.
 
 Ordinal Numbers Examples:
+
 - **First** – first
 - **Second** – second
 - **Third** – third
@@ -57,7 +58,7 @@ Ordinal Numbers Examples:
 
 **()** - parentheses
 
-**=** – equals 
+**=** – equals
 
 **√** – square root  
 
