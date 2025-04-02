@@ -11,15 +11,14 @@
 - 🟦 carefully
 - 🟦 evil
 - 🟦 laugh
-- ##########
-- loud
-- noise
-- shout
-- smell
-- terrible
-- worse
-- ##########
+- 🟦 loud
+- 🟦 noise
+- 🟥 shout
+- 🟦 smell
+- 🟦 terrible
+- 🟦 worse
 - 🟦 chart
+####
 - 🟥 describe
 - 🟥 grade
 - 🟥 instead
@@ -36,8 +35,7 @@
 - 🟥 expect
 - 🟦 frequently
 - 🟥 habit
-
-## Postponed!
+####
 - 🟥 Booze
 - 🟥 Floors
 - 🟥 Direct
