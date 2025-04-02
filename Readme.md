@@ -12,7 +12,7 @@ The repository is constantly growing and will be updated with new content regula
 
 ## 📖 How to Use  
 
-1. Open the `can?` folder  
+1. Open the [`can?`](can?) folder  
 2. Select the desired lesson or start with `01_`
 3. Have fun!  
 
