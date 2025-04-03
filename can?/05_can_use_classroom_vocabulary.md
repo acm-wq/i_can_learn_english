@@ -66,3 +66,5 @@
 ### 📕 After Lesson Activity
 
 After learning the words, take a picture of the classroom and describe what you see in it.
+
+-- --

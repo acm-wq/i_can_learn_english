@@ -1,74 +1,71 @@
-## I can say countries and nations?
+## I Can Say Countries and Nations
 
-### Basic questions and answer:
+### 📚 Basic Questions and Answers:
 
-Where are you from?
-Where do you come from?
+- **Where are you from?**
+- **Where do you come from?**
 
-I come from ...
-I'm ...
-I speak ...
+**Possible answers:**
+- I come from ...
+- I'm ...
+- I speak ...
 
-### Countries and nationals
+---
 
-For **Europe**: - ish ex: 
-```
-Britain → British
-Spain → Spanish
-Denmark → Danish
-Ireland → Irish
-Sweden → Swedish
+### 🌍 Countries and Nationals
 
-Exceptions
-Germany → German
-France → French
-Greece → Greek
-Italy → Italian
-Russia → Russian
-```
+**For Europe**: (Mostly -ish suffix)
+- Britain → British
+- Spain → Spanish
+- Denmark → Danish
+- Ireland → Irish
+- Sweden → Swedish
 
-For **America**: -an/ian
+**Exceptions:**
+- Germany → German
+- France → French
+- Greece → Greek
+- Italy → Italian
+- Russia → Russian
 
-```
-America → American
-Canada → Canadian
-Brazil → Brazilian
+**For America**: (Mostly -an/ian suffix)
+- America → American
+- Canada → Canadian
+- Brazil → Brazilian
 
-Exceptions
-Mexico → Mexican
-```
+**Exceptions:**
+- Mexico → Mexican
 
-For **Asia**: -ese
-```
-China → Chinese
-Japan → Japanese
-Vietnam → Vietnamese
 
-Exceptions
-India → Indian
-Israel → Israeli
-```
+**For Asia**: (Mostly -ese suffix)
+- China → Chinese
+- Japan → Japanese
+- Vietnam → Vietnamese
 
-### Key words
+**Exceptions:**
+- India → Indian
+- Israel → Israeli
 
-- North
-- South
-- West
-- East
+-- --
 
-- Northwest (NW)
-- Northeast (NE)
-- Southwest (SW)
-- Southeast (SE)
+### 🗺️ Key Words for Directions:
 
-Exs:
+- **North**
+- **South**
+- **West**
+- **East**
 
-Moscow is in the west of Russia.
+- **Northwest (NW)**
+- **Northeast (NE)**
+- **Southwest (SW)**
+- **Southeast (SE)**
 
-Japan is to the east of China.
+---
 
-Poland is to the west of India.
-
-Germany is in central Europe.
+**Examples:**
+- Moscow is in the west of Russia.
+- Japan is to the east of China.
+- Poland is to the west of India.
+- Germany is in central Europe.
 
 -- --
