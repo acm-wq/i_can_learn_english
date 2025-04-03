@@ -23,7 +23,7 @@
 - 🟥 Except  
 - 🟥 During  
 - 🟥 Tense  
-- 🟦 Booze  
+- 🟩 Booze  
 - 🟥 Ahead  
 - 🟥 Laundry  
 - 🟥 Hourly breakdown  
@@ -52,7 +52,7 @@
 - 🟥 Jersey  
 - 🟥 Surface  
 - 🟥 Wonder  
-- 🟦 Embarrassing  
+- 🟩 Embarrassing  
   - She is looking very embarrassed.
 - 🟩 Extend  
   - I extend my hand.
@@ -60,7 +60,7 @@
 - 🟥 Fraud  
 - 🟩 Wanna  
   - Do you wanna drink some soda?
-- 🟦 Floors  
+- 🟥 Floors  
 - 🟥 Sentence  
 - 🟥 Offers  
 - 🟩 Missing  
@@ -87,10 +87,10 @@
 - 🟥 Stairs  
 - 🟥 Vulnerabilities  
 - 🟥 Unseated  
-- 🟦 Though
-- 🟦 Direct
+- 🟥 Though
+- 🟥 Direct
 - 🟩 Pose
-- 🟦 Measure
+- 🟥 Measure
 - 🟥 Scarry
 - 🟥 Suitcase
 - 🟥 Sing
@@ -119,3 +119,52 @@
 - 🟥 several
 - 🟥 stroll
 - 🟥 establish
+- 🟩 Board
+- 🟩 Board pen
+- 🟥 Noticeboard
+- 🟩 Bag
+- 🟥 Desk
+- 🟩 CD player
+- 🟩 Pen
+- 🟥 Pencil sharpener
+- 🟥 Ruler
+- 🟩 Pencil
+- 🟩 Folder
+- 🟥 Piece of paper
+- 🟥 Rubber
+- 🟩 Notebook
+- 🟩 Dictionary
+- 🟩 Table
+- 🟥 Chair
+- 🟥 Cassette player
+- 🟩 agree
+- 🟦 arrive
+- 🟩 catch
+- 🟩 adventure
+- 🟦 approach
+- 🟦 carefully
+- 🟩 evil
+- 🟦 laugh
+- 🟩 loud
+- 🟩 noise
+- 🟥 shout
+- 🟩 smell
+- 🟩 terrible
+- 🟩 worse
+- 🟦 chart
+- 🟥 describe
+- 🟥 grade
+- 🟥 instead
+- 🟥 several
+- 🟦 shape
+- 🟥 solve
+- 🟥 suddenly
+- 🟥 suppose
+- 🟥 appropriate
+- 🟥 avoid
+- 🟥 behave
+- 🟥 calm
+- 🟥 concern
+- 🟥 expect
+- 🟦 frequently
+- 🟩 habit
