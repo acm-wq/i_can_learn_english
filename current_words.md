@@ -2,31 +2,20 @@
 #### 🟦 - I learn / 🟥 - I don't know
 
 
-- 🟦 Nouns
-- 🟦 Verbs
-- 🟦 Adjective
-- 🟦 Adverb
-- 🟦 Preposition
-- 🟦 Definite
-- 🟦 Article
-- 🟦 Pronoun
-- 🟦 Phrase
-
-#########################
-
-- 🟦 arrive
-- 🟦 approach
+- 🟦 describe
 - 🟦 carefully
 - 🟦 laugh
-- 🟦 chart
-- 🟦 several
-- 🟦 solve
-- 🟦 suddenly
-- 🟦 suppose
-- 🟦 appropriate
-- 🟦 avoid
-- 🟦 behave
-- 🟦 calm
-- 🟦 concern
+- 🟦 adult
+- 🟦 instead
+- 🟦 shout
 - 🟦 expect
-
+- 🟦 behave
+- 🟦 during
+- 🟦 avoid
+- 🟦 calm
+- 🟦 suppose
+- 🟦 concern
+- 🟦 appropriate
+- 🟦 punish
+- 🟦 shake
+- 🟦 increase
