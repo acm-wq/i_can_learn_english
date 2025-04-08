@@ -1,0 +1,8 @@
+- 🟦 describe - описывать
+- 🟦 carefully - осторожно, внимательно
+- 🟦 laugh /laf/ - смеяться
+- 🟦 adult - взрослый
+- 🟦 expect - ожидать
+- 🟦 behave /bihave/ - вести себя
+- 🟦 appropriate - подходящий, уместный
+- 🟦 calm /kalm/ - спокойный

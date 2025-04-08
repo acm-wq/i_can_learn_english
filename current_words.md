@@ -1,21 +1,24 @@
 ## Words when I'm learning
 #### 🟦 - I learn / 🟥 - I don't know
 
+- 🟦 plenty (If you have plenty of something, there is a lot of it.)
+- 🟦 weight (Weight is how heavy something or someone is.)
+- 🟦 apart (When people or things are apart, they are not next to each other.)
+- 🟦 increase (To increase is to make something larger.)
+- 🟦 bilingual (A bilingual person can speak two languages.)
+- 🟦 completely (Something completely different is very, very different from before.)
+- 🟦 disgust (Disgust is a feeling of distaste and anger caused by something rude or unpleasant.)
+- 🟦 fashionable (Something fashionable is what people like to wear and do now.)
+- 🟦 foreign (Something foreign is something we are not used to.)
+- 🟦 gulf
 
-- 🟦 describe - описывать
-- 🟦 carefully - осторожно, внимательно
-- 🟦 laugh /laf/ - смеяться
-- 🟦 adult - взрослый
-- 🟦 instead - вместо (яблоко а не лимон)
-- 🟦 shout - кричать
-- 🟦 expect - ожидать
-- 🟦 behave /bihave/ - вести себя
+-- --
 - 🟦 during - во время
 - 🟦 avoid - избегать
-- 🟦 calm /kalm/ - спокойный
 - 🟦 suppose - предполагать
 - 🟦 concern - забота, беспокойство
-- 🟦 appropriate - подходящий, уместный
+- 🟦 instead - вместо (яблоко а не лимон)
+- 🟦 shout - кричать
 - 🟦 punish - наказывать
 - 🟦 shake - встряхивать (бутылка)
 - 🟦 increase - увеличивать
